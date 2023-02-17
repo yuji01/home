@@ -6,7 +6,7 @@
         <a href="https://narutos.eu.org">ナルト</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
-      >&nbsp;&amp;
+      &amp;
       <!-- 站点备案 -->
       <a href="https://beian.miit.gov.cn" target="_blank"
         >蜀ICP备2023010488号-1</a

@@ -6,9 +6,6 @@
         <a href="https://narutos.eu.org">ナルト</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
-      <span class="hidden"
-        >&nbsp;&amp;&nbsp;Made&nbsp;by&nbsp;
-      </span
       >&nbsp;&amp;
       <!-- 站点备案 -->
       <a href="https://beian.miit.gov.cn" target="_blank"
